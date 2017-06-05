@@ -1,4 +1,4 @@
-# Jelly 🍥
+# Jelly 🍥 [![Build Status](https://travis-ci.org/helpscout/jekyll-jelly.svg?branch=master)](https://travis-ci.org/helpscout/jekyll-jelly)
 
 Help Scout's Jekyll component library.
 
